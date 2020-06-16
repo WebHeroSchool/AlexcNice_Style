@@ -1,5 +1,16 @@
+
+body {
+  font-family: 'Balsamiq Sans', cursive;
+}
+
+.header__title {
+  font-family: 'Pacifico', cursive;
+}
+*/
+
+/*
 header {
-  background: gold; /* 1 */
+  background: gold;
 }
 
 .header__title  {
@@ -29,3 +40,4 @@ section > h2 {
 .section + .footer {
   background: green;
 }
+*/
