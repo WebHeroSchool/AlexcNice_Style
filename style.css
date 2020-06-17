@@ -1,31 +1,7 @@
-header {
-  background: gold; /* 1 */
+body {
+  font-family: 'Balsamiq Sans', cursive;
 }
 
-.header__title  {
-    background: blue;
-}
-
-#toc {
-    color: green;
-}
-
-button[name] {
-  color: purple; font-size: 25px;
-}
-
-section p {
-  background: red;
-}
-
-section > h2 {
-  background: blue;
-}
-
-.article__text ~ .article__btn {
-  color: blue;
-}
-
-.section + .footer {
-  background: green;
+.header__title {
+  font-family: 'Pacifico', cursive;
 }
